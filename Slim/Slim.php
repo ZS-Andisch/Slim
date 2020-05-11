@@ -296,7 +296,7 @@ class Slim
             'view' => '\Slim\View',
             // Cookies
             'cookies.encrypt' => false,
-            'cookies.lifetime' => '20 minutes',
+            'cookies.lifetime' => '720 minutes',
             'cookies.path' => '/',
             'cookies.domain' => null,
             'cookies.secure' => false,
